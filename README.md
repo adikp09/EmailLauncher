@@ -31,10 +31,5 @@
 ## Usage
 ```javascript
 import RNEmailLauncher from 'react-native-email-launcher';
-
-// TODO: What to do with the module?
-RNEmailLauncher;
+RNEmailLauncher.launchEmail();
 ```
-  # EmailLauncher
-# EmailLauncher
-# EmailLauncher
